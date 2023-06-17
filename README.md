@@ -43,7 +43,7 @@ A Ruby on Rails API return a random greetings via its root route or /greetings.
 
 ### Key Features <a name="key-features"></a>
 
--   **Project 1: Create an API endpoint that returns a random greetings**
+-   **Create an API endpoint that returns a random greetings**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,6 +82,8 @@ To run the project, execute the following command:
   rails db:seed
   rails server
 ```
+### Front-end
+[hello-react-front-end](https://github.com/kensteph/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
