@@ -5,5 +5,4 @@ class GreetingsController < ApplicationController
 
     render json: @greetings.sample(1)
   end
-
 end
